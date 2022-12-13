@@ -1,0 +1,14 @@
+*{margin: 0; padding: 0; box-sizing: border-box;}
+body{}
+
+.light-img-cov{border-radius: 15px ; margin-top: 25px; padding 25px; border: 1px solid grey; cursor: pointer;}
+.light-img-cov:hover{background-color red; border: 2px solid darkred;}
+.light-img-cov a{}
+.pro-img{width: 100%; min-height: 200px; border 1px solid grey;}
+.pro-img img{width: 100%; height:100%; }
+.all a{text-decoration: none; color: #000;}
+.all{padding: 0 100px}
+.icon-be li{padding: 5px 0; list-style: none;}
+.icon-be li a::before{content: "\f058"; display:inline-flex;  font-family: "Font Awesome 5 free"; font-weight: 900; margin-right: 5px;}
+.quali-24{font-weight: 600; }
+.fs-o{font-size: 10px; color: #fff; margin-top: 0; padding-top: 0;}
